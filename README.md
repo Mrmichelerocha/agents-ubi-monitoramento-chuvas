@@ -12,10 +12,10 @@ O projeto consiste em três principais componentes:
 
 1. **Dispositivos de Sensoriamento:** São os nós sensores distribuídos pela área a ser monitorada. Esses dispositivos são equipados com sensores de chuva e módulos LoRa para comunicação sem fio. Eles são responsáveis por coletar os dados sobre a ocorrência de chuva e enviá-los para a central de processamento. <a href="https://github.com/Edson-source/Lora_ESP32_Ubiquos" target="_blank"><button>Repositório no GitHub</button></a>
 
-2. **Central de Processamento:** É o componente central responsável por receber os dados enviados pelos dispositivos de sensoriamento, processá-los e armazená-los. Essa central utiliza a tecnologia de sistemas multiagentes para coordenar as atividades dos nós sensores e gerenciar a coleta e análise dos dados <a href="https://github.com/Mrmichelerocha/ubi-agents/" target="_blank"><button>Repositório no GitHub</button></a>
+2. **Central de Processamento:** É o componente central responsável por receber os dados enviados pelos dispositivos de sensoriamento, processá-los e armazená-los. Essa central utiliza a tecnologia de sistemas multiagentes para coordenar as atividades dos nós sensores e gerenciar a coleta e análise dos dados <a href="https://github.com/Mrmichelerocha/agents-ubi-monitoramento-chuvas/" target="_blank"><button>Repositório no GitHub</button></a>
 
 
-3. **Interface de Visualização**: É a interface gráfica que permite aos usuários visualizar as informações coletadas sobre a chuva. Essa interface fornece dados em tempo real, gráficos e relatórios sobre a quantidade e intensidade da chuva, permitindo uma análise mais precisa e a tomada de decisões informadas. <a href="https://github.com/Mrmichelerocha/ubi-web" target="_blank"><button>Repositório no GitHub</button></a>
+3. **Interface de Visualização**: É a interface gráfica que permite aos usuários visualizar as informações coletadas sobre a chuva. Essa interface fornece dados em tempo real, gráficos e relatórios sobre a quantidade e intensidade da chuva, permitindo uma análise mais precisa e a tomada de decisões informadas. <a href="https://github.com/Mrmichelerocha/site-ubi-monitoramento-chuvas" target="_blank"><button>Repositório no GitHub</button></a>
 
 ## Funcionamento
 
